@@ -1,0 +1,25 @@
+body{
+    background-color:white;
+}
+h1{
+    color:pink;
+}
+
+h2{
+    color:blue;
+    background-color:white ;
+    cursor: pointer;
+    
+
+}
+div{
+    margin: 20px;
+    border: steelblue;
+}
+}
+p{
+    background-color: turquoise;
+}
+img{
+    position:center;
+}
