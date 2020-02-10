@@ -1,5 +1,6 @@
 body{
-    background-color:white;
+    background-color:gold;
+    background-image:url(chess.jpeg);
 }
 h1{
     color:pink;
@@ -7,19 +8,8 @@ h1{
 
 h2{
     color:blue;
-    background-color:white ;
-    cursor: pointer;
-    
-
-}
-div{
-    margin: 20px;
-    border: steelblue;
-}
-}
+    background-color:pink ;
+    text-emphasis-color: blue;
 p{
     background-color: turquoise;
-}
-img{
-    position:center;
 }
